@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hitu-code23.github.io/luxury-Toys/sitemap.xml
+Sitemap: https://hitu-code23.github.io/luxurytoys/sitemap.xml
